@@ -3,7 +3,11 @@
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
 (global-linum-mode 1)
+(tab-bar-mode 1)
+
+;; Initialization
 (setq inhibit-splash-screen 1)
+(setq initial-scratch-message nil)
 
 ;; To add golang-mode, you have to change the load path.
 (add-to-list 'load-path "/load/path")

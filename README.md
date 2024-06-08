@@ -2,6 +2,10 @@
 
 Please put `.emacs` to `~`.
 
+## Rust Mode for Emacs
+
+[original repo](https://github.com/rust-lang/rust-mode)
+
 ## Go Mode for Emacs
 
 The Go programming language mode for Emacs (`go-mode`) is originally created and maintained by Dominik Honnef. You can find the `go-mode.el` package and its documentation in the [official repository](https://github.com/dominikh/go-mode.el).
